@@ -112,9 +112,9 @@
 ### LANGKAH 12 — Verifikasi & Pengujian ###
 1. Konfirmasi Bukti
 
-<video controls src="./20260927-1239-18.1773705.mp4" width="100%"></video>
+![alt text](<Screen Recording 2026-09-27 194024.gif>)
 
 ## Bukti Hasil Akhir ##
 1. Konfirmasi bukti tugas wajib & tugas pengembangan
 
-<video controls src="./20260927-1303-12.4589549.mp4" width="100%"></video>
+![alt text](<Screen Recording 2026-09-27 200415.gif>)
