@@ -65,7 +65,7 @@
 1. Tambahkan SectionList di dalam <ScrollView>, setelah FlatList
 2. Konfirmasi Bukti
 
-<img src=image-11.png width="40%">
+<img src=image-36.png width="40%">
 
 ### LANGKAH 9 — TextInput, Button & ActivityIndicator ###
 1. Tambahkan TextInput, Button & ActivityIndicator di dalam <ScrollView>, setelah SectionList
@@ -112,9 +112,9 @@
 ### LANGKAH 12 — Verifikasi & Pengujian ###
 1. Konfirmasi Bukti
 
-![alt text](<Screen Recording 2026-09-27 194024.gif>)
+![alt text](<Screen Recording 2026-09-27 212400.gif>)
 
 ## Bukti Hasil Akhir ##
 1. Konfirmasi bukti tugas wajib & tugas pengembangan
 
-![alt text](<Screen Recording 2026-09-27 200415.gif>)
+![alt text](<Screen Recording 2026-09-27 212625.gif>)
