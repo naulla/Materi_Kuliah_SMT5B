@@ -33,7 +33,7 @@ Mahasiswa mampu:
         - Install Expo di Android atau IOS
         - Bisa juga menggunakan web emulator di Laptop / PC
         - Setelah running diberhentikan (ctrl + C)
-        - Install (npx expo i react -dom react-native-web)
+        - Install (npx expo install react-dom react-native-web)
         - npx expo start --web
         - Konfirmasi keberhasilan
         <img src=image-3.png width="40%" >
