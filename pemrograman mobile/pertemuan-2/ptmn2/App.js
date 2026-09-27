@@ -478,8 +478,11 @@ export default function App() {
                     />
                   )}
                   renderSectionHeader={({ section: { title } }) => (
-                    <Text style={styles.sectionHeader}>{title}</Text>
+                    <View style={styles.sectionHeader}>
+                      <Text style={styles.sectionHeaderText}>{title}</Text>
+                    </View>
                   )}
+
                   scrollEnabled={false}
                   ItemSeparatorComponent={() => (
                     <View style={{ height: 8 }} />
