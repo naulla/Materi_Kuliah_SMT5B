@@ -27,35 +27,25 @@ Mahasiswa mampu:
 
 ![alt text](<Screen Recording 2026-10-03 194111.gif>)
 
-
-## Alur Praktikum 2 ##
-
-### Langkah 1: Instalasi Pustaka Bottom Tabs ###
+### Langkah 3: Bottom Tab Navogation ###
 1. instal "npm install @react-navigation/bottom-tabs"
-
-### Langkah 2: Membuat Layar Baru ###
-1. Buat file `HomeScreen.js` dan `ProfileScreen.js` di dalam folder `screens`.
-2. Konfirmasi Bukti
+2. Buat file `HomeScreen.js` dan `ProfileScreen.js` di dalam folder `screens`.
+3. Ubah isi App.js
+4. Konfirmasi Bukti
 
 <img src=image.png width="50%">
 
 <img src=image-1.png width="50%">
 
-### Langkah 3: Konfigurasi Tab di `App.js` ###
-1. Mengubah isi `App.js`
-2. Konfirmasi Bukti
-
 <img src=image-2.png width="50%">
 
+![alt text](<Screen Recording 2026-10-12 053021.gif>)
 
-## Alur Praktikum 3 ##
 
-### Langkah 1: Instalasi Pustaka Drawer ###
-1. install 'npm install @react-navigation/drawer'
-
-### Langkah 2: Konfigurasi Drawer di `App.js` ###
-1. Mengubah kembali file `App.js` untuk mencoba Drawer Navigation menggunakan layar Home dan Profile yang sudah dibuat sebelumnya.
-2. Konfirmasi Bukti
+### Langkah 4: Drawer Navigation ###
+1. install Pustaka Drawer 'npm install @react-navigation/drawer' Passtikan juga plugin reanimated sudah terinstall dan konfigurasi di babel.config.js jika diperlukan
+2. Ubah kembali file App.js untuk mencoba Drawer Navigation menggunakan layar Home dan Profile yang sudah dibuat sebelumnya
+3. Konfirmasi Bukti
 
 <img src=image-3.png width="50%">
 
